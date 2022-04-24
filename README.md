@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shmuel Korets
+- 👋 Hi, I’m Shmuel
 - 👀 I’m interested in Efficiency/Problem Solving/Gaming
 - 🌱 I’m currently learning Clojure/Ruby
 - 💞️ I’m looking to collaborate
