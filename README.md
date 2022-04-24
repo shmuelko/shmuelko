@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shmuel Korets
+- 👀 I’m interested in Efficiency/Problem Solving/Gaming
+- 🌱 I’m currently learning Clojure/Ruby
+- 💞️ I’m looking to collaborate
+- 📫 You can reach me in shmuel777@gmail.com
